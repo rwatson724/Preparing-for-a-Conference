@@ -6,5 +6,5 @@ Louise Hadden and I wrote a paper as well as recorded a presentation to help you
 
 <a href = "https://tp1210.p3cdn1.secureserver.net/wp-content/uploads/2023/01/Conference_Prep-Virtual_Component.pdf"> Read Paper </a>
 <br>
-<br>)
+<br>
 <a href = "https://drive.google.com/file/d/1MXgkOkgX6DYWUSDfNgIG517jJEPm0enN/view?usp=sharing"> Watch Video </a>
